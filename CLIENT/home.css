@@ -1,0 +1,46 @@
+body {
+    background-color: cyan;
+}
+
+#searchbar{
+
+  border-color: wheat;
+    border-radius: 10px;
+    padding: 10px;   
+}
+
+#searchbar:hover{
+
+    border-color:rgb(140, 0, 255);
+}
+
+#filetoupload:hover{
+background-color:green;
+border-radius: 4px;
+color: chartreuse;
+}
+
+#viewbox {
+     
+    border: 2px solid black;
+    max-width: 400px;
+    height: 200px;
+    border-radius: 15px;
+    background-color: white;
+}
+
+#viewbox:hover {
+    border-color:rgb(140, 0, 255);
+}
+
+#submit{
+    
+    background-color: rgba(0, 0, 0, 0.24);
+    color: white;
+    padding: 10px;
+    border-radius: 10px;
+}
+
+#submit:hover{
+    border-color:yellow;
+}
